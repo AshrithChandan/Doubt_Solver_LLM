@@ -1,0 +1,8 @@
+transformers
+datasets
+accelerate
+duckduckgo-search
+gradio
+openai
+requests
+beautifulsoup4
